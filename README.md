@@ -1,7 +1,7 @@
 
 
 # Hi! 👋
-**I'm DEv0on (he/him)** - I'm a full-stack developer interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord!
+**I'm DEv0on (he/him)** - I'm a full-stack developer interested in development, moderation, and building thriving online communities. I work on random projects in my free time, a lot involving Discord and Minecraft!
 
 [![SkillIcons](https://skillicons.dev/icons?i=java,kotlin,js,ts,rust,html,css,nodejs,tailwind,vue,nuxt,mongodb,prisma,docker)](https://skillicons.dev)<br/>
 
